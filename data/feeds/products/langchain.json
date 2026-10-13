@@ -1,7 +1,13 @@
 {
   "source": "LangChain",
-  "fetched_at": "2026-10-12T12:34:27.868Z",
+  "fetched_at": "2026-10-13T12:18:55.769Z",
   "items": [
+    {
+      "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
+      "link": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+      "date": "2026-10-13T11:56:53.000Z",
+      "description": "Use ScaleDown's constrained decoding models with LangChain and Deep Agents to summarize history, compress tool results, and extract data faster and cheaper."
+    },
     {
       "title": "How to build great out-of-the-box user experiences with Managed Deep Agents",
       "link": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
