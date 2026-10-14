@@ -1,7 +1,13 @@
 {
   "source": "Writesonic",
-  "fetched_at": "2026-10-13T12:18:55.769Z",
+  "fetched_at": "2026-10-14T09:50:26.260Z",
   "items": [
+    {
+      "title": "Introducing Muse Spark tracking in Writesonic",
+      "link": "https://writesonic.com/blog/muse-spark-tracking",
+      "date": "2026-10-14T06:37:59.000Z",
+      "description": "Writesonic now tracks Muse Spark. Explore how Meta’s model represents your brand, which competitors appear in its recommendations, and the sources it cites."
+    },
     {
       "title": "From Rankings to Conversations: How to Guide Clients Through AI Search",
       "link": "https://writesonic.com/blog/guide-clients-through-ai-search",

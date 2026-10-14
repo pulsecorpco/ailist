@@ -1,7 +1,49 @@
 {
   "source": "LangChain",
-  "fetched_at": "2026-10-13T12:18:55.769Z",
+  "fetched_at": "2026-10-14T09:50:26.260Z",
   "items": [
+    {
+      "title": "How Orange Business Built Live Intelligence with LangChain and LangSmith",
+      "link": "https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith",
+      "date": "2026-10-13T19:56:07.000Z",
+      "description": "Learn how Orange Business used LangChain and LangSmith to build Live Intelligence, a governed AI platform for agents, evals, observability, and production scale."
+    },
+    {
+      "title": "How We Made Our Docs Test Themselves",
+      "link": "https://www.langchain.com/blog/our-docs-test-themselves",
+      "date": "2026-10-13T19:56:07.000Z",
+      "description": "Stale code samples are a docs problem nobody prioritizes. Here's how we used the Deep Agents CLI to automate migrating inline code into testable, CI-ready examples"
+    },
+    {
+      "title": "Deep Agents Deploy: an open alternative to Claude Managed Agents",
+      "link": "https://www.langchain.com/blog/deep-agents-deploy-an-open-alternative-to-claude-managed-agents",
+      "date": "2026-10-13T19:56:07.000Z",
+      "description": "Today we’re launching Deep Agents deploy in beta. Deep Agents deploy is the fastest way to deploy a model agnostic, open source agent harness in a production ready way."
+    },
+    {
+      "title": "Open Models have crossed a threshold",
+      "link": "https://www.langchain.com/blog/open-models-have-crossed-a-threshold",
+      "date": "2026-10-13T19:56:07.000Z",
+      "description": "Open models like GLM-5 and MiniMax M2.7 now match closed frontier models on core agent tasks — file operations, tool use, and instruction following — at a fraction of the cost and latency. Here's wha…"
+    },
+    {
+      "title": "Improving Deep Agents with harness engineering",
+      "link": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
+      "date": "2026-10-13T19:56:07.000Z",
+      "description": "Harness engineering improved LangChain's coding agent from Top 30 to Top 5 on Terminal Bench using self-verification, tracing, and context optimization."
+    },
+    {
+      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+      "link": "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents",
+      "date": "2026-10-13T19:56:07.000Z",
+      "description": "Built on Deep Agents and LangGraph, Open SWE provides the core architectural components for internal coding agents."
+    },
+    {
+      "title": "Search agent traces by behavior with AI Search in LangSmith",
+      "link": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
+      "date": "2026-10-13T14:01:24.000Z",
+      "description": "AI Search in LangSmith is a new way to query traces using natural language. Describe the behavior you're looking for, and LangSmith returns the traces where it happened."
+    },
     {
       "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
       "link": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
