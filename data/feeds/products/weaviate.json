@@ -1,7 +1,13 @@
 {
   "source": "Weaviate",
-  "fetched_at": "2026-10-14T09:50:26.260Z",
+  "fetched_at": "2026-10-15T09:30:58.760Z",
   "items": [
+    {
+      "title": "PathSeer: Adaptive Filtered Vector Search",
+      "link": "https://weaviate.io/blog/pathseer-filtered-vector-search",
+      "date": "2026-10-14T00:00:00.000Z",
+      "description": "Weaviate 1.40 adds PathSeer, a third HNSW filter strategy from a SIGMOD 2026 paper, contributed by the paper's first author. How it works, and how it compares to sweeping and ACORN."
+    },
     {
       "title": "Persistent memory for Claude Code with Weaviate Engram",
       "link": "https://weaviate.io/blog/engram-for-claude-code",
