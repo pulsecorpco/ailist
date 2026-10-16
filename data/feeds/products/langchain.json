@@ -1,7 +1,13 @@
 {
   "source": "LangChain",
-  "fetched_at": "2026-10-15T09:30:58.760Z",
+  "fetched_at": "2026-10-16T09:24:07.247Z",
   "items": [
+    {
+      "title": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
+      "link": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+      "date": "2026-10-15T16:50:48.000Z",
+      "description": "What we shipped at Interrupt NYC and London: LangSmith AI Search, Engine v2, Trajectories, Custom Apps, Fine-Tuning, and Managed Deep Agents v0.9."
+    },
     {
       "title": "The Most Common Questions About Agent Evals, Answered",
       "link": "https://www.langchain.com/blog/common-questions-about-agent-evals",

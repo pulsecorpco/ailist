@@ -1,7 +1,13 @@
 {
   "source": "Together AI",
-  "fetched_at": "2026-10-15T09:30:58.760Z",
+  "fetched_at": "2026-10-16T09:24:07.247Z",
   "items": [
+    {
+      "title": "Meta Muse Spark Open is live on Together AI",
+      "link": "https://www.together.ai/blog/meta-muse-spark-open",
+      "date": "2026-10-15T00:00:00.000Z",
+      "description": "Meta Muse Spark Open, Meta's open-weight model for agentic coding, is live on Together AI with a 1M-token context window on serverless and dedicated infrastructure."
+    },
     {
       "title": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
       "link": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia",

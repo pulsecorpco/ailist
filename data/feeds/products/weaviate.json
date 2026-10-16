@@ -1,7 +1,13 @@
 {
   "source": "Weaviate",
-  "fetched_at": "2026-10-15T09:30:58.760Z",
+  "fetched_at": "2026-10-16T09:24:07.247Z",
   "items": [
+    {
+      "title": "Weaviate security release - Medium severity fix for a cross-collection vector disclosure in nearObject (CVE pending assignment)",
+      "link": "https://weaviate.io/blog/weaviate-security-release-nearobject-2026",
+      "date": "2026-10-15T00:00:00.000Z",
+      "description": "Weaviate v1.39.3 fixes a medium-severity authorization issue in the nearObject GraphQL operator."
+    },
     {
       "title": "PathSeer: Adaptive Filtered Vector Search",
       "link": "https://weaviate.io/blog/pathseer-filtered-vector-search",

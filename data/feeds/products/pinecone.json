@@ -1,7 +1,13 @@
 {
   "source": "Pinecone",
-  "fetched_at": "2026-10-15T09:30:58.760Z",
+  "fetched_at": "2026-10-16T09:24:07.247Z",
   "items": [
+    {
+      "title": "On-demand mode for Pinecone BYOC",
+      "link": "https://www.pinecone.io/blog/byoc-on-demand/",
+      "date": "2026-10-15T12:00:00.000Z",
+      "description": "Pinecone BYOC now supports on-demand capacity mode, so you can create indexes in your own cloud account without sizing shards upfront."
+    },
     {
       "title": "How to add hybrid search to a Postgres app with Pinecone in 2026",
       "link": "https://www.pinecone.io/learn/hybrid-search-postgres-pinecone/",

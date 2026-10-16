@@ -1,7 +1,13 @@
 {
   "source": "Mistral AI",
-  "fetched_at": "2026-10-15T09:30:58.760Z",
+  "fetched_at": "2026-10-16T09:24:07.247Z",
   "items": [
+    {
+      "title": "Introducing Timestral",
+      "link": "https://mistral.ai/news/timestral/",
+      "date": "2026-10-15T12:00:00.000Z",
+      "description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready."
+    },
     {
       "title": "Introducing Mistral Large 4",
       "link": "https://mistral.ai/news/mistral-large-4/",
